@@ -32,7 +32,7 @@ Run locally
 
 ### Set up Jupyter Notebook Kernel
 
-    $pip install --user ipykernel
+    $pip install --user ipykernel ipywidgets
     $python -m ipykernel install --user --name=myenv
 
 ### Launch Jupyter Notebook
