@@ -12,3 +12,4 @@ tqdm==4.66.5
 xarray==2024.9.0
 shapely==2.0.6
 scikit-learn==1.5.2
+matplotlib==3.10.0
